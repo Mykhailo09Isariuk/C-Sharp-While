@@ -24,7 +24,7 @@ namespace project
 
             for(int i = 50; i <= 70; i++)
             {
-                Console.WriteLine(number);
+                Console.WriteLine(i);
             }
         }
     }
