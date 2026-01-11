@@ -15,6 +15,12 @@ namespace project
                 Console.WriteLine(number);
                 number++;
             }
+            do
+            {
+                Console.WriteLine(number);
+            } while (number <= 100);
+
+
         }
     }
 }
