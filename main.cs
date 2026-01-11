@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Data;
+using System.Runtime.CompilerServices;
 
 namespace project
 {
@@ -15,12 +16,16 @@ namespace project
                 Console.WriteLine(number);
                 number++;
             }
+
             do
             {
                 Console.WriteLine(number);
             } while (number <= 100);
 
-
+            for(int i = 50; i <= 70; i++)
+            {
+                Console.WriteLine(number);
+            }
         }
     }
 }
