@@ -25,6 +25,11 @@ namespace project
             for(int i = 50; i <= 70; i++)
             {
                 Console.WriteLine(i);
+                
+                if (i == 66)
+                {
+                    break;
+                }
             }
         }
     }
