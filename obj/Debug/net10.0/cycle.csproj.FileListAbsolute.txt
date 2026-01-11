@@ -1,0 +1,14 @@
+D:\C#\Цикли\main\cycle\bin\Debug\net10.0\cycle.exe
+D:\C#\Цикли\main\cycle\bin\Debug\net10.0\cycle.deps.json
+D:\C#\Цикли\main\cycle\bin\Debug\net10.0\cycle.runtimeconfig.json
+D:\C#\Цикли\main\cycle\bin\Debug\net10.0\cycle.dll
+D:\C#\Цикли\main\cycle\bin\Debug\net10.0\cycle.pdb
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\cycle.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\cycle.AssemblyInfoInputs.cache
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\cycle.AssemblyInfo.cs
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\cycle.csproj.CoreCompileInputs.cache
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\cycle.dll
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\refint\cycle.dll
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\cycle.pdb
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\cycle.genruntimeconfig.cache
+D:\C#\Цикли\main\cycle\obj\Debug\net10.0\ref\cycle.dll
